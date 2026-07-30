@@ -33,20 +33,28 @@
 
 ## 最简单的资料提交方式
 
-新加入的协作者先把资料上传到私有仓库 `internal-operations` 中自己的收件箱，例如：
+所有新加入的协作者统一把待审核资料上传到私有仓库 `internal-operations` 中已经建立好的共享收件箱：
 
-`inbox/kun/2026-08/`
+`inbox/incoming/`
 
-这个目录不会自动生成。第一次加入时，由资料管理员按照志愿者的 GitHub 用户名和当前年月预先建立个人收件箱。志愿者只需进入管理员提供的现成目录上传文件，不需要自己创建文件夹。
+不需要管理员为每位志愿者或每个月建立新目录，志愿者也不需要自己创建文件夹。
+
+最快的方式是直接打开上传页面：
+
+- [直接上传资料到 APOA 共享收件箱](https://github.com/apoa-org/internal-operations/upload/main/inbox/incoming)
 
 操作步骤：
 
-1. 打开 `apoa-org/internal-operations`。
-2. 进入自己的收件箱和当前月份文件夹。
-3. 点击 **Add file** → **Upload files**。
-4. 把 PDF、Word、Excel、图片等文件拖入网页。
-5. 在提交说明中写一句中文，例如：`提交：7月董事会议记录`。
-6. 点击 **Commit changes** 完成保存。
+1. 点击上面的直达上传链接。
+2. 把 PDF、Word、Excel、图片等文件拖入网页，或点击 **Choose your files** 选择文件。
+3. 在提交说明中写一句中文，例如：`提交：7月董事会议记录`。
+4. 点击 **Commit changes** 完成保存。
+
+为避免多人上传时文件重名，建议将文件命名为：
+
+`YYYY-MM-DD-姓名-文件说明.ext`
+
+例如：`2026-07-30-王昆-中秋活动招商方案.pdf`
 
 这里的 **Commit changes** 可以理解为“保存文件并留下版本记录”。
 
