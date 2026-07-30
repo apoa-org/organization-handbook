@@ -15,11 +15,29 @@
 3. 接受 `apoa-org` 发出的 Organization 邀请。
 4. 管理员为你开放相应仓库的权限。
 
+## 从个人账号进入 APOA 私有仓库
+
+登录自己的 GitHub 账号后，按以下路径进入：
+
+1. 点击 GitHub 页面右上角的个人头像。
+2. 点击 **Organizations**。
+3. 选择 **apoa-org**。
+4. 在组织首页点击 **Repositories**。
+5. 找到带锁标志的 **internal-operations**，点击进入。
+
+也可以使用直达地址：
+
+- [进入 APOA 私有仓库 internal-operations](https://github.com/apoa-org/internal-operations)
+
+如果看不到 `internal-operations`，通常表示管理员还没有为你的个人 GitHub 账号开放该私有仓库。请把自己的 GitHub 用户名发给 APOA 资料管理员，请管理员添加权限。
+
 ## 最简单的资料提交方式
 
 新加入的协作者先把资料上传到私有仓库 `internal-operations` 中自己的收件箱，例如：
 
 `inbox/kun/2026-08/`
+
+这个目录不会自动生成。第一次加入时，由资料管理员按照志愿者的 GitHub 用户名和当前年月预先建立个人收件箱。志愿者只需进入管理员提供的现成目录上传文件，不需要自己创建文件夹。
 
 操作步骤：
 
