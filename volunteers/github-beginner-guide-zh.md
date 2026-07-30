@@ -13,7 +13,13 @@
 1. 注册并登录自己的 GitHub 账号。
 2. 开启两步验证（2FA），并妥善保存恢复码。
 3. 接受 `apoa-org` 发出的 Organization 邀请。
-4. 管理员为你开放相应仓库的权限。
+4. 管理员将你的个人 GitHub 账号加入 `volunteers` Team。
+
+`volunteers` 是 APOA 的志愿者团队。这个 Team 已获得私有仓库 `internal-operations` 的 **Write** 权限。管理员只需在新人加入时设置一次，以后不需要为每次上传单独授权或建立目录。
+
+- [查看 APOA volunteers Team](https://github.com/orgs/apoa-org/teams/volunteers)
+
+如果无法进入 Team 或私有仓库，请确认你已经接受 Organization 邀请，并把自己的 GitHub 用户名发给 APOA 资料管理员。
 
 ## 从个人账号进入 APOA 私有仓库
 
@@ -29,7 +35,7 @@
 
 - [进入 APOA 私有仓库 internal-operations](https://github.com/apoa-org/internal-operations)
 
-如果看不到 `internal-operations`，通常表示管理员还没有为你的个人 GitHub 账号开放该私有仓库。请把自己的 GitHub 用户名发给 APOA 资料管理员，请管理员添加权限。
+如果看不到 `internal-operations`，通常表示你尚未加入 `volunteers` Team，或者还没有接受 `apoa-org` 邀请。
 
 ## 最简单的资料提交方式
 
@@ -58,16 +64,25 @@
 
 这里的 **Commit changes** 可以理解为“保存文件并留下版本记录”。
 
+## 志愿者可以操作的范围
+
+GitHub 的 **Write** 权限会覆盖整个 `internal-operations` 仓库，不能只开放其中一个文件夹。为了避免误改内部资料，志愿者只能：
+
+- 向 `inbox/incoming/` 上传新文件；
+- 填写本次上传的提交说明；
+- 查看自己需要使用的资料。
+
+未经资料管理员安排，请不要修改、移动或删除仓库中的现有文件，也不要在其他目录新建文件。
+
 ## 上传时不需要做什么
 
-在收件箱中，你不需要：
+在共享收件箱中，你不需要：
 
 - 学习 Git 命令或创建分支；
 - 判断最终应该放在哪个目录；
-- 修改成英文文件名；
 - 判断文件是否可以公开。
 
-可以先保留电脑上的原始文件名。资料管理员审核后，再统一改名、分类和发布。
+资料管理员审核后，再统一改名、分类和发布。
 
 ## 管理员会如何归档
 
