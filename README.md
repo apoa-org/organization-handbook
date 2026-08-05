@@ -2,6 +2,18 @@
 
 这是 APOA 的公开组织手册，也是公司资料、公开财务信息、活动记录和志愿者协作规范的正式资料入口。
 
+## 公司常用资料（Quick Reference）
+
+| 项目 | 内容 |
+|---|---|
+| 公司全名 | Australian Property Owners Alliance Limited |
+| ACN | 683 245 614 |
+| ABN | 66 683 245 614 |
+| 日常办公／营业地址 | Suite 304, 695 Burke Road, Camberwell VIC 3124 |
+| ASIC 注册办公室 | Moore Australia, 10 Moonee Street, Coffs Harbour NSW 2450 |
+
+> 注册 Facebook、社交媒体、供应商账号或填写一般联系资料时，通常使用 **Camberwell 日常办公／营业地址**。只有表格明确要求 “Registered office” 或 ASIC 法定注册地址时，才使用 Coffs Harbour 地址。正式法律申报前应确认 ASIC 当前记录未发生变化。
+
 ## 常用资料
 
 | 资料 | 入口 |
