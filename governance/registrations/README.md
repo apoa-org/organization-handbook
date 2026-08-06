@@ -11,6 +11,20 @@ Australian Property Owners Alliance Limited 的公开公司登记资料。
 - 公司类型：Public company limited by guarantee
 - 登记机构：Australian Securities and Investments Commission (ASIC)
 
+## ABN、GST 与 DGR 状态
+
+**官方 ABR 记录复核日期：2026-08-06**
+
+- ABN：66 683 245 614
+- ABN 状态：Active from 20 December 2024
+- ABR entity type：Australian Public Company
+- GST：**Not currently registered for GST**
+- Main business location：VIC 3124
+- Deductible Gift Recipient (DGR)：Not entitled to receive tax deductible gifts
+- [查看 ABN Lookup 当前记录](https://abr.business.gov.au/ABN/View?id=66683245614)
+
+GST 和 DGR 状态可能发生变化。每次开具重要发票、提交补贴申请或向外部机构声明税务状态前，应重新检查官方 ABR 记录。
+
 ## 地址使用说明
 
 ### 日常办公／营业地址（Principal place of business）
@@ -42,5 +56,7 @@ Australian Property Owners Alliance Limited 的公开公司登记资料。
 - Issuing authority: Australian Securities and Investments Commission (ASIC)
 - Principal place of business: Suite 304, 695 Burke Road, Camberwell VIC 3124
 - Registered office: Moore Australia, 10 Moonee Street, Coffs Harbour NSW 2450
+- GST: Not currently registered for GST (verified 6 August 2026)
+- DGR: Not entitled to receive tax deductible gifts (verified 6 August 2026)
 
 This register contains public organizational information. Passwords, identity documents, private signatures, directors' personal details and account login credentials must not be added.
