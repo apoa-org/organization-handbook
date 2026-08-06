@@ -1,9 +1,19 @@
-# Finance
+# Finance / 财务公开资料
 
-Public payment instructions and finance processes.
+本目录维护 APOA 的公开付款说明和通用财务流程。
 
-Bank login details, customer numbers, passwords, balances and statements must not be stored in Git.
+银行登录信息、客户编号、密码、余额、银行流水、具体客户发票和交易记录不得存入本公开仓库。
 
-## Public records
+## 公开资料
 
-- [APOA payment details](payment-details.md)
+- [APOA 银行收款信息 / Payment details](payment-details.md)
+- [APOA Invoice 开票格式与 GST 说明](invoicing/)
+
+## 私有资料
+
+以下资料应归档到受控的私有财务空间：
+
+- 已开具和收到的具体 Invoice
+- 付款方、赞助方及交易记录
+- 银行流水、余额和对账资料
+- 未公开合同及联系人信息
