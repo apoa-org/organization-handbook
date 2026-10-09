@@ -4,16 +4,15 @@
 
 ## 正式组织母本
 
-- [《APOA 机构介绍与 2027 愿景｜组织母本》](APOA-Organization-Master-2027.md) — 基于团队已确认的 V3，作为组织身份、使命、价值观、2027 愿景及后续跨渠道传播的权威内容依据。
-- 英文短版、官网 About、社媒 Profile、活动简介等后续衍生文案应引用母本并保持一致，不在此处平行维护第二套相互冲突的机构定义。
+- [《APOA 机构介绍与 2027 愿景｜对外介绍母本文案》](APOA-Organization-Master-2027.md) — 依据团队确认的《APOA介绍2027_母本.docx》归档，作为组织对外介绍与 2027 愿景的正式内容依据。
+- 官网 About、双语 Catalog、活动介绍、赞助合作资料及演讲/PPT 可据此提炼篇幅适当的版本，不另行创造与母本冲突的定义。
 
 ## 维护原则
 
-- 法定名称为 **Australian Property Owners Alliance Limited**；组织品牌名称为 **Australian Property Owners Alliance（APOA）**。详细注册记录见 [governance/registrations](../governance/registrations/)。
-- 新中文内容逐步使用“澳洲房主联盟”；既有历史资料不追溯修改。
-- 组织母本已获团队确认，允许文字微调；重大口径变化须重新确认。
-- 所有修订通过独立分支和 Pull Request 审核后才可合并。
+- 本文件是组织简介与愿景的内容权威来源；注册、地址、税务等易变法定信息另见 [governance/registrations](../governance/registrations/)。
+- 新制内容逐步采用“澳洲房主联盟”，历史资料原则上不追溯修改。
+- 文字微调或跨渠道引用应经过独立分支与 Pull Request 审核；未经批准不合并。
 
 ## English
 
-The [APOA Organization Master 2027](APOA-Organization-Master-2027.md) is the approved organization-level reference for APOA's profile and vision. Channel-specific summaries should preserve its meaning and link back to this source. Existing historical materials remain unchanged.
+The [APOA Organization Master 2027](APOA-Organization-Master-2027.md) is the approved source text for APOA's public profile and 2027 vision. Adapt it for different channels without changing its substance.
