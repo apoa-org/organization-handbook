@@ -4,6 +4,13 @@
 
 ## 最新更新
 
+### 2026-10-16
+
+- [补档：2026 中秋联欢暨年度会议活动报告](events/2026/2026-09-27-mid-autumn-gala-annual-meeting/EVENT-REPORT-2026.md)，并明确区分早期邀请信息与活动完成后记录。
+- [新增：悉尼社区线下见面会](events/2026/2026-10-25-sydney-community-meetup/)；报名开放，活动详情以官网为准。
+- [新增：2026 年 8–10 月组织发展与项目索引](community/2026-development-milestones.md)，将会员互助、知识教育、政策参与与已记录工作对应。
+- 更新 [2026 活动索引](events/2026/)；中秋资料仅保存授权主视觉，人物影像、视频和原始素材不进入公开仓库。
+
 ### 2026-08-06
 
 - [新增：APOA 2026 中秋联欢暨年度会议及英文邀请信](events/2026/2026-09-27-mid-autumn-gala-annual-meeting/)
@@ -36,7 +43,8 @@
 | 银行收款信息 | [ANZ收款账号、BSB及付款说明](finance/payment-details.md) |
 | Invoice 与 GST | [开票格式、编号和资料归档规范](finance/invoicing/) |
 | ASIC／ABN公司登记 | [注册证书、地址及当前税务状态](governance/registrations/) |
-| 2026活动档案 | [元宵活动、613座谈会和中秋联欢暨年度会议](events/2026/) |
+| 2026活动档案 | [元宵活动、613座谈会、中秋活动报告及悉尼见面会](events/2026/) |
+| 2026组织发展索引 | [会员互助、知识教育与政策参与](community/2026-development-milestones.md) |
 | APOA介绍 | [组织介绍、使命和架构](about/) |
 | 社区运营 | [微信群及社区项目公开说明](community/) |
 | 志愿者协作 | [志愿者入门、角色和交接](volunteers/) |
