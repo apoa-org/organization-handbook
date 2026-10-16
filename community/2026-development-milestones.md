@@ -16,6 +16,10 @@
 - [悉尼社区线下见面会](../events/2026/2026-10-25-sydney-community-meetup/) 已公开报名，作为跨城市社区连接的下一步。
 - 面向成员的注册、活动和社区入口持续优化；技术变更以 private development-log 的证据分级记录为准。
 
+### 媒体传播里程碑
+
+- 根据团队确认，**3ZZZ FM 92.3 中文普通话节目于 2026 年 10 月 1 日播报 APOA 中秋活动通稿**，团队将其记录为 **APOA 首次媒体报道**。当期[节目回放](https://omny.fm/shows/chinese-mandarin-3zzz/chinese-mandarin-1-october-2026)及[活动报告](../events/2026/2026-09-27-mid-autumn-gala-annual-meeting/EVENT-REPORT-2026.md)提供相关线索；具体播报内容尚待逐字核听。
+
 ### 知识教育
 
 - 双语 Newsletter 和 Community Wall 工作流程持续形成可复用的志愿者编辑协作方式。
