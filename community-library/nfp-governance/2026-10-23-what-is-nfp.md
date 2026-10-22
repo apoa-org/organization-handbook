@@ -1,39 +1,87 @@
-# 学习笔记 01｜什么是 NFP？
+# 第 01 篇｜什么是 NFP？（What is a not-for-profit?）
 
-- **主题：** 澳大利亚非营利组织基础认识
-- **记录日期：** 2026-10-23
-- **类型：** 资料整理与学习引子（欢迎补充个人心得）
-- **状态：** 学习笔记，非 APOA 正式政策
-- **核对范围：** 以下概念依据所列 ACNC / AICD 原始资料；APOA 的具体义务仍应以其现行章程与监管记录为准
+**内容类型：** 官方原文短篇节选＋对应中文辅助翻译  
+**编辑日期 / 资料查阅：** 2026-10-23  
+**引用机构：** Australian Charities and Not-for-profits Commission（ACNC）及 Australian Securities and Investments Commission（ASIC）  
+**翻译性质：** 非官方中文译文；不代表 ACNC、ASIC 认可或背书  
+**使用说明：** 仅供一般资料学习。英文原文及原发布机构网站为准。
 
-## 今天弄懂一个概念
+> **版权与完整原文：** 本页不复制官方文件全文，只引用必要的少量英文原句并提供对应译文。请点击每节的链接阅读其官方原始完整页面。
 
-**NFP（Not-for-Profit）不等于组织不能有收入，也不等于不能有盈余。**
+## 01｜非营利组织的定义 / Definition
 
-按澳大利亚慈善及非营利组织委员会（ACNC）的解释，非营利组织一般不以成员、管理者或其他特定个人的私利为运作目的。组织可以产生盈余，但盈余应当用于实现其宗旨；合理的服务报酬及费用报销并不必然违反非营利原则，须符合适用规则与组织章程。
+**发布机构：** ACNC  
+**原文标题：** *Not-for-profit*（Topic Guide）  
+**官方完整原文：** https://www.acnc.gov.au/tools/topic-guides/not-for-profit
 
-**NFP 不等于已注册慈善机构。** 慈善机构是非营利组织的一个子类，不能只因为一个组织是 NFP 就推断它受 ACNC 监管、具有 DGR 资格或所有捐款都可以抵税。
+**English — short excerpt**
 
-## 为什么值得学？
+> A not-for-profit is an organisation that does not operate for the profit, personal gain or other benefit of particular people.
 
-APOA 已采用担保有限公司（company limited by guarantee）的组织形式。学习 NFP 治理，有助于我们讨论资金如何支持组织宗旨、志愿者如何协作、如何区分公众信任与个人利益。不过具体合规义务、董事职责及财税身份，需要结合官方注册资料和组织章程分别确认。
+**中文译文（非官方）**
 
-## 今天可以想一想
+> 非营利组织，是指不以让特定个人获得利润、私人收益或其他利益为运营目的的组织。
 
-> 如果一个非营利组织通过活动或会员服务获得收入，它应该如何决定把这些钱用在哪里？
+## 02｜非营利组织可以产生盈余 / Making a profit
 
-没有标准作业，也不要求每天打卡。愿意分享的人可以在社群里聊聊理解与疑问。
+**发布机构：** ACNC  
+**原文标题：** *Not-for-profit*（“Making a profit” 小节）  
+**官方完整原文：** https://www.acnc.gov.au/for-charities/start-charity/not-for-profit
 
-## 原始资料（2026-10-23 查阅）
+**English — short excerpt**
 
-1. [ACNC — Not-for-profit](https://www.acnc.gov.au/for-charities/start-charity/not-for-profit) — NFP 的基本含义、合理报酬和盈余。
-2. [AICD — Not-for-Profit Governance Principles（2024 第三版）](https://www.aicd.com.au/corporate-governance-sectors/not-for-profit/studies/2024-not-for-profit-governance-principles.html) — 治理八项原则及学习方向。
-3. [APOA Organization Handbook](../../README.md) — APOA 已公开的组织基本资料（组织资料以正式登记及现行文件为准）。
+> A not-for-profit can in fact make a profit, but any profit it does make must be allocated towards its purposes.
 
-## 个人学习心得 / 社群补充
+**中文译文（非官方）**
 
-_待发起人或志愿者补充。本栏目不会由 AI 冒充个人阅读心得。_
+> 非营利组织实际上可以产生利润，但其产生的任何利润都必须用于实现组织的宗旨。
+
+## 03｜NFP 与注册慈善机构不同 / NFP versus registered charity
+
+**发布机构：** ACNC  
+**原文标题：** *Common questions for organisations that have been self-assessing as income tax exempt*（关于 charity 与 not-for-profit 区别的问答）  
+**官方完整原文：** https://www.acnc.gov.au/organisations-have-been-self-assessing-income-tax-exempt/common-questions
+
+**English — short excerpt**
+
+> A registered charity is a type of not-for-profit organisation.
+
+**中文译文（非官方）**
+
+> 已注册的慈善机构是非营利组织的一种类型。
+
+另可阅读 ACNC 的官方 [Not-for-profit Topic Guide](https://www.acnc.gov.au/tools/topic-guides/not-for-profit)，核对为什么非营利组织不一定是注册慈善机构。
+
+## 04｜担保有限公司的分红限制 / Company limited by guarantee
+
+**发布机构：** ASIC  
+**原文标题：** *Registering and structuring not-for-profit organisations*（“Registering and operating as a company” 小节）  
+**官方完整原文：** https://www.asic.gov.au/for-business-and-companies/nfps-and-charities/registering-and-structuring-not-for-profit-organisations
+
+**English — short excerpt**
+
+> This kind of company cannot pay dividends to its members.
+
+**中文译文（非官方）**
+
+> 这种公司不能向其成员派发股息（分红）。
+
+其中 “this kind of company” 指该原文上一段所述的 **public company limited by guarantee（公众担保有限公司）**，并非所有公司。
 
 ---
 
-_本页用于学习与交流，不构成法律、财务或税务建议，不代表 APOA 官方立场。_
+## 资料来源与翻译说明 / Sources and translation note
+
+| 发布机构 | 原文完整资料 | 查阅日期 |
+|---|---|---|
+| ACNC | [Not-for-profit — Topic Guide](https://www.acnc.gov.au/tools/topic-guides/not-for-profit) | 2026-10-23 |
+| ACNC | [Not-for-profit — Guidance](https://www.acnc.gov.au/for-charities/start-charity/not-for-profit) | 2026-10-23 |
+| ACNC | [Common questions — charity status](https://www.acnc.gov.au/organisations-have-been-self-assessing-income-tax-exempt/common-questions) | 2026-10-23 |
+| ASIC | [Registering and structuring NFP organisations](https://www.asic.gov.au/for-business-and-companies/nfps-and-charities/registering-and-structuring-not-for-profit-organisations) | 2026-10-23 |
+
+- “Original English” 为原发布机构网页中的**短篇节选**；请使用官方链接阅读全文、确认上下文和最新信息。
+- 中文对应译文由 APOA Community Library 辅助整理，**不是官方译本**。出现差异时应核对英文原文。
+- 本文没有加入个人观点、学习心得、讨论问题或 APOA 的政策主张。
+- 介绍 NFP 通用概念不能替代确认某个具体组织的 ACNC 慈善注册、DGR 资格、税务身份或现行章程。此类信息需分别核实。
+
+*本页为教育及资料检索用途，不构成法律、财务或税务意见。*

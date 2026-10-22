@@ -2,38 +2,46 @@
 
 **Read · Listen · Share · Grow｜阅读 · 聆听 · 分享 · 共同成长**
 
-> 这是由日常学习笔记起步的社区知识共建尝试，当前为初始试行版，并非 APOA 的正式治理制度或专业意见。
+APOA 社区图书馆是一个逐步积累、面向公众开放的学习资料项目。
 
-早晨花五到十分钟，用手机读一篇文章、听一段书，或弄懂一个问题。我们希望把这些小小的学习心得慢慢积累起来，从志愿者个人分享开始，未来向整个 APOA 社区开放。
+## 第一阶段：权威来源与中英对照
 
-不追求每天必须更新，不设打卡要求。好问题、好书、原始资料和有价值的讨论，都欢迎分享。
+目前优先整理澳大利亚政府部门、监管机构及专业机构公开发布的**原始资料链接、准确书目信息、短篇原文节选与对应中文翻译**。
 
-## 开始阅读
+**不加入个人心得、AI 自创观点、未经确认的组织政策或冒充官方认可的结论。** 编辑者应保留出处、版本及查阅日期。中译为学习辅助译文，并非原发布机构的官方中文版；有歧义时以英语原文为准。
 
-- [NFP 治理微学习](nfp-governance/README.md) — 从认识非营利组织开始
-  - [第 1 篇：什么是 NFP？](nfp-governance/2026-10-23-what-is-nfp.md)
-- [读书与听书笔记](reading-notes/README.md) — 一个待慢慢丰富的书架
-- [学习笔记模板](templates/learning-note.md) — 记录五分钟学习
-- [如何分享和改进内容](CONTRIBUTING.md)
+### 开始阅读
 
-## 简单的内容工作流
+- [NFP 治理资料目录｜AICD 2024 第三版八项原则](nfp-governance/README.md)
+- [第 01 篇｜什么是 NFP？官方资料节选与中文翻译](nfp-governance/2026-10-23-what-is-nfp.md)
+- [来源与翻译条目模板](templates/learning-note.md)
+- [资料整理、核对和共建说明](CONTRIBUTING.md)
 
-**Gemini 查找资料及出处 → 学习者阅读并提出自己的理解/疑问 → GPT 协助核对、整理和编写 → 人工确认 → GitHub 留档 → 微信群自由交流。**
+[阅读与听书专区](reading-notes/README.md)暂作未来栏目规划，第一阶段不作为主要发布内容。
 
-资料研究和 AI 整理不代表事实自动可靠。重要观点需要返回原始来源核对；有争议或未确认的信息应明确标注，不能把个人学习心得写成 APOA 的正式立场。
+## 原文与版权
 
-## 长远愿景
+本馆提供**原发布机构的全文链接**及必要的短篇引文和对应译文。未经权利人允许，不上传或整篇转载受版权保护的报告、书籍、电子书、有声书及其完整译本。
 
-我们希望未来邀请志愿者、房主、专业人士及社区成员参与读书交流、资料推荐与专业审阅。优先提供简单、无需 GitHub 账号也能阅读的公开入口；未来可考虑在 [APOA 官网](https://apoa.org.au/)建立更友好的图书馆页面。
+图书馆内容用于一般教育与资料检索，不构成针对任何组织或个人的法律、财务或税务建议。组织正式制度、章程和登记资料应以 [APOA Organization Handbook](../README.md) 及法定记录为准。
 
-APOA 的正式组织资料请以 [Organization Handbook](../README.md) 及组织依法有效的正式文件为准。这里是**学习与讨论空间**，两者职责不同。
+## 后续开放
+
+未来可邀请志愿者、社区成员与专业人士推荐资料、提供翻译或纠错。阅读资料不需要 GitHub 账户；未来可在 [APOA 官网](https://apoa.org.au/)提供更便利的阅读入口。是否开放个人心得、读书会、专家讲座等栏目，待后续逐步确定。
 
 ---
 
 ## English
 
-The APOA Community Library starts with small daily reading, listening and learning notes, and aims to become an openly accessible, community-contributed resource over time.
+**APOA Community Library — Sources & Chinese Translations (Pilot)**
 
-The content here is educational and may include evolving personal notes. It is **not** official APOA governance policy, legal, tax, or other professional advice. Please consult original sources and qualified professionals when appropriate.
+Our initial priority is to index primary sources from Australian regulators and professional bodies, with brief English excerpts and faithful Chinese translations. Every item should name its publisher, edition/date, original URL, and access date.
 
-Start with [NFP Governance Learning](nfp-governance/README.md), [Reading & Listening Notes](reading-notes/README.md) and [Contributing](CONTRIBUTING.md).
+The Chinese translations are **unofficial reading aids**, not authorised or endorsed official translations. Consult the original English text where precision matters.
+
+- [NFP Governance: AICD 2024 eight-principle contents](nfp-governance/README.md)
+- [Entry 01: What is a not-for-profit?](nfp-governance/2026-10-23-what-is-nfp.md)
+- [Source/translation template](templates/learning-note.md)
+- [Editorial and contribution guidelines](CONTRIBUTING.md)
+
+We link to complete originals rather than reproducing copyrighted publications in full. These learning materials are not official APOA policy or professional advice.

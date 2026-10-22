@@ -1,26 +1,50 @@
-# NFP 治理微学习｜NFP Governance Learning
+# NFP 治理系列｜原文资料与中文翻译索引
 
-从一个简单的问题开始：**非营利组织（NFP）究竟是什么？**
+**栏目性质：** 澳大利亚权威机构发布的 NFP 公开资料索引与辅助译读；不属于 APOA 自行制定的治理准则。
 
-这里是逐步积累的学习笔记，不是 APOA 董事会决议、正式规章或官方专业意见。我们会尽量链接政府监管机构和专业机构的原始资料，并记录查阅日期。欢迎专业人士指出错误、补充出处。
+## 资料 01：NFP 基本概念
 
-## 已有笔记
+- [第 01 篇｜什么是 NFP？（ACNC / ASIC 原文节选与中文翻译）](2026-10-23-what-is-nfp.md)
 
-- [2026-10-23｜第 1 篇：什么是 NFP？](2026-10-23-what-is-nfp.md)
+## 资料 02：AICD《Not-for-Profit Governance Principles》
 
-## 后续可能学习的方向（不代表更新承诺）
+| 文献项目 | 信息 |
+|---|---|
+| 发布机构 | Australian Institute of Company Directors（AICD，澳大利亚董事协会） |
+| 英文原名 | *Not-for-Profit Governance Principles* |
+| 版本 | Third Edition（第三版），April 2024 |
+| 官方介绍与八项原则目录 | [AICD 官网](https://www.aicd.com.au/corporate-governance-sectors/not-for-profit/studies/2024-not-for-profit-governance-principles.html) |
+| 官方英文完整原文 | [AICD 2024 PDF](https://www.aicd.com.au/content/dam/aicd/pdf/tools-resources/nfp-governance-principles/aicd-nfp-governance-principles-2024.pdf) |
+| 本页资料查阅日期 | 2026-10-23 |
+| 中文译文 | APOA 社区图书馆辅助译名，**并非 AICD 官方中文版** |
 
-参考 [AICD《Not-for-Profit Governance Principles》第三版（2024）](https://www.aicd.com.au/corporate-governance-sectors/not-for-profit/studies/2024-not-for-profit-governance-principles.html)，其**八项**原则为：
+### 2024 第三版八项原则｜Original headings and Chinese translations
 
-1. 宗旨、愿景与战略（Purpose, vision, and strategy）
-2. 角色与职责（Roles and responsibilities）
-3. 董事会组成与有效性（Board composition and effectiveness）
-4. 风险管理（Risk management）
-5. 绩效与问责（Performance and accountability）
-6. 利益相关者（Stakeholders）
-7. 可持续发展（Sustainability）
-8. 组织文化（Organisational culture）
+以下英文标题按 AICD 官网所列顺序整理；中文为对应标题的译名，**不是正文翻译或内容评述**。
 
-**版本注意：** 2024 年的第三版将上一版的十项原则整合为八项。不要将旧版十项直接标为“2024 版”。
+| # | Original English heading | 中文译名（非官方） |
+|---|---|---|
+| 1 | Purpose, vision, and strategy | 宗旨、愿景与战略 |
+| 2 | Roles and responsibilities | 角色与职责 |
+| 3 | Board composition and effectiveness | 董事会组成与有效性 |
+| 4 | Risk management | 风险管理 |
+| 5 | Performance and accountability | 绩效与问责 |
+| 6 | Stakeholders | 利益相关者 |
+| 7 | Sustainability | 可持续性 |
+| 8 | Organisational culture | 组织文化 |
 
-可以根据当天阅读兴趣自由选题，不必严格按顺序。引用资料时，请保留链接并区分直接事实、个人理解与待研究问题。
+**版本核对：** AICD 2024 年第三版共有八项原则；不能将旧版的十项原则称为“2024 版目录”。参考：[AICD 2024 更新说明](https://www.aicd.com.au/corporate-governance-sectors/not-for-profit/aicd-updates-the-nfp-governance-principles.html)。
+
+### 阅读方式
+
+- **阅读完整英文原文：** 请使用上方 AICD 官方网页 / PDF 链接。
+- **后续中英对照条目：** 仅在合理引用范围内选择短篇原文节选并逐条翻译，标注原章节及来源。
+- **更正与核对：** 如译名、出处、版本有误，应依 AICD 原始文本修订并保留 GitHub 变更记录。
+
+本馆不转载 AICD 的完整受版权保护报告，也不将自行翻译的文字标注为 AICD 官方翻译。
+
+---
+
+## English
+
+This index records the **eight principles** in AICD's *Not-for-Profit Governance Principles*, **Third Edition (April 2024)**, and supplies **unofficial Chinese translations of the section headings only**. Read the full official edition at the links above.
