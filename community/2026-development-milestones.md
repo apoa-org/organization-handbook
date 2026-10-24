@@ -25,6 +25,10 @@
 - 双语 Newsletter 和 Community Wall 工作流程持续形成可复用的志愿者编辑协作方式。
 - 每周内容与活动经验应先去标识化，再按公开审核流程沉淀；不提交原始微信群记录或成员资料。
 
+### 志愿者协作实践
+
+- [2026-10-25｜志愿者工作日记：从群通知走向共同创造](../volunteers/2026-10-25-volunteer-work-diary-collaboration-practice.md)：记录 Box Hill 活动之后的志愿者角色探索、AICD 治理晨读与问卷反馈，作为参与式协作的阶段性观察；不代表治理模式已经验证或形成正式制度。
+
 ### 政策参与
 
 - [维州租赁政策座谈会](../events/2026/2026-06-13-victoria-rental-policy-roundtable/) 已在活动索引中留档。
