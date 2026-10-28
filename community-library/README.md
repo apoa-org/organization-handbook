@@ -4,17 +4,26 @@
 
 APOA 社区图书馆是一个逐步积累、面向公众开放的学习资料项目。
 
-## 第一阶段：权威来源与中英对照
+## 内容原则：权威来源与中文学习解读
 
 目前优先整理澳大利亚政府部门、监管机构及专业机构公开发布的**原始资料链接、准确书目信息、短篇原文节选与对应中文翻译**。
 
 **不加入个人心得、AI 自创观点、未经确认的组织政策或冒充官方认可的结论。** 编辑者应保留出处、版本及查阅日期。中译为学习辅助译文，并非原发布机构的官方中文版；有歧义时以英语原文为准。
 
-### 面向读者的阅读室（试行）
+### 公开阅读站点与书架
 
-- [打开图书馆阅读版 HTML 源文件](reader/index.html) — **阅读界面预览源文件**。GitHub 文件页面仅展示代码，正式的无需登录网页阅读地址仍待静态网站部署；可下载此文件并用浏览器打开，或使用本次提供的预览文件。
-- 阅读版采用中文正文在前、英文原文及官方出处在后，并提供字号切换与基于浏览器语音的中文朗读（兼容性因设备而异）。
-- 当前为第一期静态样式试行，内容正式核对及对外发布流程仍按下面的来源与译文规范执行。
+- [APOA 社区图书馆首页](https://apoa-org.github.io/organization-handbook/) — 中文优先的公开阅读空间，无需 GitHub 账户。
+- [完整书架](https://apoa-org.github.io/organization-handbook/bookshelf.html) — 收录志愿者故事、社区知识、非营利治理、维州志愿服务研究报告中文解读，以及 AI 应用知识等馆藏。
+- [2025 年维州志愿服务状况报告中文阅读目录](https://apoa-org.github.io/organization-handbook/victoria-volunteering-2025-book.html) — 导读已扩写，后续章节持续完善。
+- [AI 与 GitHub 共建数字图书馆实用指南](https://apoa-org.github.io/organization-handbook/ai-github-library-guide.html)。
+- 网站采用 GitHub Pages 发布：源文件位于 `main:community-library/reader/`，公开 HTML 位于 `gh-pages` 根目录。文章支持字号调整与浏览器中文朗读，具体兼容性依设备而异。
+
+### 出版记录与维护规则
+
+- **2026-10-29**：整理公开馆藏入口、研究报告导读、AI 应用指南，并建立[上新与发布同步检查清单](PUBLISHING-CHECKLIST.md)。
+- [AI 编辑与出版工作说明](AGENTS.md)：事实、版权、中文解读与发布要求。
+- [上新同步检查清单](PUBLISHING-CHECKLIST.md)：每次发布检查正文、目录、书架、首页最近更新与首页三本精选书，发布后核查公开链接。
+- 图书馆的学习解读不是 APOA 已批准的正式政策；引用原报告时应以官方英文资料为准。
 
 **品牌识别：** 阅读版页眉使用 [APOA 品牌素材仓库中的现有主 Logo](https://github.com/apoa-org/brand-and-design/tree/main/logos/current)（直接引用公开的官方 PNG 文件）；不修改 Logo 图形、字样或既有品牌标准。它是网页目前唯一的外部品牌图片依赖；未来迁移网站时，可将该图片复制到受控的站点资源目录，再更新路径。
 
