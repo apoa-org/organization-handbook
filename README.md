@@ -4,6 +4,13 @@
 
 ## 最新更新
 
+### 2026-10-29｜APOA 社区图书馆建设与出版更新
+
+- [APOA 社区图书馆公开阅读站点](https://apoa-org.github.io/organization-handbook/) 已通过 GitHub Pages 提供中文优先的独立阅读体验；[完整书架](https://apoa-org.github.io/organization-handbook/bookshelf.html) 汇集已收录的专题读物与文章。
+- 本期新增及完善：维多利亚州志愿服务状况报告中文阅读目录及完整版导读；AI 与 GitHub 共建数字图书馆实用指南。其他已收录内容包括志愿者故事、社区知识和非营利组织治理学习资料。
+- [图书馆编辑与出版工作说明](community-library/AGENTS.md) 与 [上新同步检查清单](community-library/PUBLISHING-CHECKLIST.md) 已建立：发布时检查正文、书内目录、完整书架、首页最近更新与三本精选书入口。
+- 这是公众教育与知识积累项目，不等同于 APOA 的正式组织政策、治理决议或财务成果证明。部分研究报告章节仍在逐步完善。
+
 ### 2026-10-16
 
 - [补档：2026 中秋联欢暨年度会议活动报告](events/2026/2026-09-27-mid-autumn-gala-annual-meeting/EVENT-REPORT-2026.md)，并明确区分早期邀请信息与活动完成后记录。
