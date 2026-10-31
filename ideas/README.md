@@ -11,6 +11,7 @@
 | 想法 | 当前状态 | 一句话说明 |
 | --- | --- | --- |
 | [APOA 邻里群｜Neighbourhood Connect](neighbourhood-connect.md) | 💡 待志愿者讨论，尚未立项 | 按地区通过微信和 WhatsApp 连接居民，邀请地区志愿者协助，让大家有机会学习知识、分享资源、争取发声。 |
+| [APOA 全民房产知识挑战赛｜Property Challenge](property-challenge.md) | 📝 策划与招商合作草案 V0.1，拟先试做线上版；执行与合作待确认 | 房产知识王、猜房价、Handyman 三款游戏，网友出题，线上挑战逐步连接线下区域决赛。 |
 
 ## 怎样使用这个想法箱
 
