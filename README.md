@@ -4,6 +4,11 @@
 
 ## 最新更新
 
+### 2026-10-31｜APOA Ideas 想法收集箱
+
+- [新增：💡 APOA Ideas 想法收集箱](ideas/)，用于记录构想、分享到志愿者群讨论，大家认可后再另行立项；收录不代表项目已获批准或承诺执行。
+- [第一条想法：APOA 邻里群](ideas/neighbourhood-connect.md)，探索地区志愿者与微信／WhatsApp 邻里交流，目前为待讨论的初步构想。
+
 ### 2026-10-29｜APOA 社区图书馆建设与出版更新
 
 - [APOA 社区图书馆公开阅读站点](https://apoa-org.github.io/organization-handbook/) 已通过 GitHub Pages 提供中文优先的独立阅读体验；[完整书架](https://apoa-org.github.io/organization-handbook/bookshelf.html) 汇集已收录的专题读物与文章。
@@ -53,6 +58,7 @@
 | 2026活动档案 | [元宵活动、613座谈会、中秋活动报告及悉尼见面会](events/2026/) |
 | 2026组织发展索引 | [会员互助、知识教育与政策参与](community/2026-development-milestones.md) |
 | APOA介绍 | [组织介绍、使命和架构](about/) |
+| 💡 想法收集箱 | [脑力风暴与志愿者讨论（非已立项项目）](ideas/) |
 | 社区运营 | [微信群及社区项目公开说明](community/) |
 | 志愿者协作 | [志愿者入门、角色和交接](volunteers/) |
 | 会议记录 | [已批准的会议资料](meetings/) |
@@ -77,6 +83,7 @@ This public handbook is the shared source of truth for APOA's organizational kno
 - governance/ - registrations, policies and public decisions
 - finance/ - public payment information and finance processes
 - volunteers/ - onboarding, roles and handover guidance
+- ideas/ - brainstorms for volunteer discussion; not approved projects
 - community/ - community programs and public operating principles
 - meetings/ - approved agendas, minutes and decision records
 - events/ - public event plans, runbooks and retrospectives
