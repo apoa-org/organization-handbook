@@ -13,6 +13,7 @@
 | [APOA 邻里群｜Neighbourhood Connect](neighbourhood-connect.md) | 💡 待志愿者讨论，尚未立项 | 按地区通过微信和 WhatsApp 连接居民，邀请地区志愿者协助，让大家有机会学习知识、分享资源、争取发声。 |
 | [APOA 全民房产知识挑战赛｜Property Challenge](property-challenge.md) | 📝 策划与招商合作草案 V0.1，拟先试做线上版；执行与合作待确认 | 房产知识王、猜房价、Handyman 三款游戏，网友出题，线上挑战逐步连接线下区域决赛。 |
 | [APOA 本地社区拓展｜Sausage Sizzle 与 DIY Club](local-community-outreach.md) | 💡 待志愿者讨论，尚未立项；门店活动与合作待确认 | 探索 Bunnings 社区义卖、房屋维护小课堂与 DIY Club，连接本地居民、双语邻里群和 Handyman 知识挑战。 |
+| [APOA 读书会 × 老徐茶叙｜养老、传承与人生下半场](book-club-tea-talk.md) | 💡 待志愿者讨论，尚未立项 | Helen 提出、Kitty 补充：以《百岁人生》等为入口，结合领读、真实人生经验和茶叙，讨论养老、传承与人生下半场。 |
 
 ## 怎样使用这个想法箱
 
