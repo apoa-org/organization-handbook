@@ -66,10 +66,22 @@
 6. 提交记录写清楚文章与改动范围。结束时报告：已改文件、是否发布、链接、仍需人工核查的问题。**未实际提交时，不得声称已更新网站。**
 7. 不修改无关的组织资料、正式政策、财务记录或其他仓库。
 
-## 7. 给新 ChatGPT 对话的简短开场
+## 从图书馆扩展到 APOA 官网及 Facebook（另一个工作流）
+
+本文件管理的是**社区图书馆本身**（GitHub main / gh-pages 的编辑与上架）。图书馆上架**不自动授权**官网或 Facebook 发布。
+
+当用户明确要求“把这篇发官网中英文及 Facebook”时，应先读取 APOA 网站仓库的最新跨渠道出版规范：
+https://github.com/Kitty52u/APOA-web/blob/main/docs/editorial/chatgpt-wordpress-facebook-publishing-v1.md
+
+- 官网由 Hostinger 上的 WordPress 承载，通过已连接的 **Jetpack → WordPress.com MCP** 创建、核验、发布中英文独立文章；语言、互链和 Rank Math 元数据用通用 content-items 接口核验。
+- Facebook 目前通过 **Metricool** 处理，和官网发布分开确认；排期 PENDING 不等于 PUBLISHED。
+- 禁止未经批准自动从图书馆推送其他渠道；不把“邮件通知一律禁止／Jetpack 自动社交永久关闭”写作 APOA 既定规则。
+- 新聊天必须实际读取对应规则并取得所需插件授权；仅有 GitHub 链接不构成发布许可。
+
+## 8. 给新 ChatGPT 对话的简短开场
 
 > 我们在维护 APOA 社区图书馆。请先阅读 https://github.com/apoa-org/organization-handbook/blob/main/community-library/AGENTS.md ，再查看目标文章的 GitHub 源文件和英文原始资料。按该规范写一篇中文优先、专业可信、具体好读的学习文章。请明确区分官方来源、中文解读与 APOA 应用思考。先给我完整文章草稿；只有我明确要求发布时，才更新 GitHub 的 main 与 gh-pages。不要更改已封板的首页和书架 UI。
 
-## 8. 维护说明
+## 9. 维护说明
 
 本文件是**编辑工作约定**，不是法律文件或 APOA 正式治理政策。新对话不会自动获得所有历史上下文；请提供本文件链接及具体写作题目。若将来图书馆迁入独立仓库，应同步迁移并更新此文件中的路径与发布规则。
