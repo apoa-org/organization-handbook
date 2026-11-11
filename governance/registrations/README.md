@@ -43,6 +43,8 @@ GST 和 DGR 状态可能发生变化。每次开具重要发票、提交补贴�
 
 ASIC 截图另显示 `Non profit company: Yes`。这属于该 ASIC 公司记录中的字段，**不等于** ACNC 慈善注册、ATO 所得税豁免或某一 Council Grant 非营利资格已经获确认。APOA Constitution 第 8 条的剩余资产分配问题仍需单独进行法律审核。
 
+**特别区分：** 本页 ASIC 截图显示法定注册地址在 NSW，但**没有显示公司法律上的 State/Territory of Registration 字段**。不要直接把 NSW 办公室地址等同于 NSW 注册州属；如确需更改后者，需根据 ASIC 的 Form 2213 及公司特别决议等要求另行处理，而非仅修改 Form 484。
+
 **地址用途提醒：** Registered office 是法律文书送达地址，Principal place of business 才是公司主要日常营业地址；二者可位于不同州。无论填哪种表格，都应按其实际要求使用真实、可证明并有授权的地址。若以后变更地址，按 ASIC 规则办理 Form 484。
 
 正式法律申报、银行验证或政府申请前，应确认 ASIC 的现行记录以及资助方地址要求。
