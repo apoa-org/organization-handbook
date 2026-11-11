@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f7f5ef">
+<meta name="color-scheme" content="light">
+<meta name="description" content="APOA 投资房建筑折旧免费试算器 V0.1。用原始合资格建筑成本、建筑年数与收入用途比例，理解 Division 43 的2.5%教学计算。">
+<title>投资房建筑折旧免费试算器｜APOA 社区图书馆</title>
+<style>
+:root{--canvas:#f7f5ef;--paper:#fffefa;--ink:#26332d;--muted:#6e786e;--deep:#1d3d32;--green:#315949;--line:#e4e6dd;--soft:#eef3eb;--gold:#b89763;--serif:"Songti SC","Noto Serif CJK SC","STSong",Georgia,serif;--sans:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif}
+*{box-sizing:border-box}body{margin:0;background:var(--canvas);color:var(--ink);font:15px/1.75 var(--sans)}a{color:var(--green);text-underline-offset:3px}a:focus-visible,input:focus-visible,select:focus-visible,button:focus-visible{outline:3px solid #a1baa7;outline-offset:3px}
+header{border-bottom:1px solid var(--line)}.head{max-width:940px;min-height:65px;padding:13px 22px;margin:auto;display:flex;align-items:center;justify-content:space-between;gap:15px}.brand{font-weight:700;text-decoration:none}.brand small{display:block;color:var(--muted);font:10px Georgia,serif;letter-spacing:.11em}.nav{display:flex;gap:17px;white-space:nowrap;font-size:13px}.nav a{text-decoration:none}
+main{max-width:940px;margin:auto;padding:25px 22px 72px}.crumb{font-size:13px;text-decoration:none}.paper{background:var(--paper);border:1px solid var(--line);padding:clamp(23px,5vw,48px);border-radius:18px;margin-top:20px;box-shadow:0 7px 27px #2c433109}.kicker{font-size:11px;font-weight:750;letter-spacing:.12em;color:var(--green)}h1{font:500 clamp(29px,4.6vw,41px)/1.4 var(--serif);margin:13px 0 3px}h2{font:500 25px/1.5 var(--serif);margin:0 0 13px}.subtitle{font:italic 15px Georgia,serif;color:#829487;margin:5px 0 19px}.lead{font:18px/1.9 var(--serif);margin:17px 0 22px;max-width:720px}.muted{font-size:12px;color:var(--muted)}.notice{background:#f3f5ef;border-left:3px solid #9eb3a1;padding:15px 18px;border-radius:0 10px 10px 0;font-size:13px;line-height:1.85;margin:22px 0}.tag{display:inline-block;background:var(--soft);padding:3px 10px;border-radius:30px;color:var(--deep);font-size:11px;font-weight:700}
+.form-layout{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:24px;margin:25px 0}.panel{border:1px solid var(--line);border-radius:14px;padding:22px;background:white}.fields{display:grid;gap:18px}.field label{display:block;font-size:13px;font-weight:700;margin:0 0 7px}.field small{display:block;color:var(--muted);font-size:11px;margin-top:6px;line-height:1.5}.field input,.field select{width:100%;border:1px solid #c9d6c9;border-radius:9px;background:white;color:var(--ink);padding:11px 13px;font:16px/1.4 var(--sans)}.field input[aria-invalid=true]{border-color:#b34d4d}.error{font-size:12px;color:#a13a3a;min-height:14px}.buttons{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}button{font:700 13px var(--sans);border:1px solid var(--green);border-radius:24px;padding:11px 17px;color:var(--green);background:white;cursor:pointer}button.primary{background:var(--deep);color:white}
+.results{background:linear-gradient(135deg,#315949,#1d3d32);border-radius:13px;padding:23px;color:#fcfcf5}.results .kicker{color:#d8e7d4}.big{font:600 clamp(31px,4.5vw,43px)/1.25 var(--serif);margin:6px 0 12px;overflow-wrap:anywhere}.metric{padding:11px 0;border-top:1px solid #ffffff30;display:flex;justify-content:space-between;align-items:baseline;gap:12px}.metric span{font-size:12px;color:#d9e5d9}.metric strong{font:600 18px var(--sans);text-align:right;font-variant-numeric:tabular-nums}.results .fineprint{color:#d6e2d5;font-size:11px;line-height:1.75;margin:18px 0 0}.hint{margin-top:16px;color:var(--muted);font-size:13px}.rule{border-top:1px solid var(--line);margin-top:30px;padding-top:25px}.steps{padding-left:20px}.steps li{padding:5px 0}.footer-links{display:flex;gap:15px;flex-wrap:wrap;margin-top:25px}footer{border-top:1px solid var(--line);padding:25px 16px;text-align:center;font-size:12px;color:var(--muted)}
+@media(max-width:750px){main{padding:18px 12px 48px}.paper{padding:23px 18px}.form-layout{grid-template-columns:1fr;gap:15px}.head{padding:12px 14px}.nav{gap:12px;font-size:12px}.panel{padding:17px}}
+@media print{header,.buttons,.footer-links{display:none}.paper{border:0;box-shadow:none}.results{color:black;background:white;border:1px solid #ddd}.results .fineprint,.results .kicker,.metric span{color:black}}
+</style>
+</head>
+<body>
+<header><div class="head"><a class="brand" href="index.html">APOA 社区图书馆<small>COMMUNITY LIBRARY</small></a><nav class="nav" aria-label="导航"><a href="book-property-depreciation.html">返回手册</a><a href="bookshelf.html">完整书架</a></nav></div></header>
+<main>
+<a href="book-property-depreciation.html" class="crumb">← 返回《投资房折旧篇》</a>
+<article class="paper">
+<div class="kicker">APOA FREE LEARNING TOOL · V0.1</div>
+<h1>投资房建筑折旧试算器</h1>
+<p class="subtitle">Division 43 Capital Works · Illustrative Calculator</p>
+<span class="tag">公开免费 · 无需注册</span>
+<p class="lead">把建筑成本、房屋年数和出租用途比例填进去，看看每年可能有多少<strong>建筑折旧扣除</strong>。这只是学习计算逻辑的工具，不是税务申报软件。</p>
+<div class="notice"><strong>适用边界：</strong>仅演示通常适用<strong>2.5%每年、最长40年</strong>的合资格住宅建筑（Div 43）情况。不能用当前房价或“土地+房屋总购买价”直接代替原始合资格建筑成本。对不符合该假设的房产，结果不适用。设备折旧（Div 40）、实际剩余成本、施工分期、部分年度、个人税务居民身份、亏损结转及出售时CGT未纳入。</div>
+<form id="calc" novalidate>
+<div class="form-layout">
+<div class="panel">
+<h2>输入假设</h2>
+<div class="fields">
+<div class="field"><label for="cost">原始合资格建筑成本（AUD）</label><input id="cost" name="cost" inputmode="decimal" type="number" min="0" step="1000" value="200000" required><small>只包括符合Div 43条件的建筑成本；不包括土地成本。</small></div>
+<div class="field"><label for="age">距建筑完成约多少个完整年度？</label><input id="age" name="age" inputmode="numeric" type="number" min="0" max="40" step="1" value="10" required><small>演示假设从完成后开始计40年；真实起算日需按税法和建筑记录核对。</small></div>
+<div class="field"><label for="use">本年度合资格收入用途比例（%）</label><input id="use" name="use" inputmode="decimal" type="number" min="0" max="100" step="1" value="100" required><small>100%表示完整年度均符合收入用途；短租/自住混合用途不能只凭预订率填。</small></div>
+<div class="field"><label for="tax">演示边际所得税率（%）</label><select id="tax" name="tax"><option value="16">16%</option><option value="30" selected>30%</option><option value="37">37%</option><option value="45">45%</option><option value="0">0%（无即时所得税效果的示意）</option></select><small>用于“理论税额影响”演示，不包括Medicare levy、税务抵免、实际可抵减收入及未来CGT。</small></div>
+<div class="error" id="error" role="alert" aria-live="polite"></div>
+</div>
+<div class="buttons"><button type="reset">恢复示例</button><button type="button" class="primary" id="print">打印/保存试算摘要</button></div>
+</div>
+<div class="panel">
+<h2>计算结果 <span class="tag">即时更新</span></h2>
+<div class="results" role="status" aria-live="polite" aria-atomic="true">
+<div class="kicker">年度建筑折旧扣除 · 演示</div>
+<div class="big" id="annual">$5,000</div>
+<div class="metric"><span>完整年度合资格建筑折旧额</span><strong id="gross">$5,000</strong></div>
+<div class="metric"><span>输入的收入用途比例</span><strong id="apportion">100%</strong></div>
+<div class="metric"><span>剩余的完整折旧年度（演示）</span><strong id="remaining">30 年</strong></div>
+<div class="metric"><span>理论边际所得税影响／年</span><strong id="saving">$1,500</strong></div>
+<p class="fineprint" id="explanation">计算：$200,000 × 2.5% × 100% = $5,000 年度扣除。$5,000 × 30% = $1,500 理论所得税影响。</p>
+</div>
+<p class="hint"><strong>重要：</strong>抵税 $5,000 不等于退税 $5,000。即使没有即时退税，也不代表折旧没有税务后果；需考虑个人收入、亏损资格与出售时CGT。</p>
+</div>
+</div>
+</form>
+<section class="rule">
+<h2>下一步应该怎样使用这些数字？</h2>
+<ol class="steps">
+<li>拿到原始折旧报告，查看建筑完工年份、Division 43合资格成本和余下的逐年明细。</li>
+<li>确认出租期间、用途比例、产权份额，以及是否有新增装修；不要把新设备与建筑折旧混算。</li>
+<li>请会计比较旧报告能够支持的扣除金额与新报告<strong>真正额外确认</strong>的金额，再评估报告费用。</li>
+<li>出售房产前咨询成本基础（Cost Base）调整；2027年CGT市场估值报告与本页的折旧报告不同。</li>
+</ol>
+</section>
+<section class="rule">
+<h2>三个示范输入</h2>
+<p>点击一个示范即可填入假设值，帮助理解三种情况。</p>
+<div class="buttons">
+<button type="button" class="preset" data-cost="200000" data-age="10" data-use="100" data-tax="30">旧报告10年 · 单套</button>
+<button type="button" class="preset" data-cost="360000" data-age="1" data-use="100" data-tax="37">买地建新房</button>
+<button type="button" class="preset" data-cost="240000" data-age="8" data-use="60" data-tax="0">低收入 / Airbnb</button>
+</div>
+</section>
+<section class="rule">
+<h2>来源与使用说明</h2>
+<p>税务依据：<a href="https://www.ato.gov.au/RPguide" target="_blank" rel="noopener noreferrer">ATO · Rental properties guide</a>；<a href="https://www.ato.gov.au/rental" target="_blank" rel="noopener noreferrer">ATO · Rental properties</a>；<a href="https://www.legislation.gov.au/C2004A05138/latest/text" target="_blank" rel="noopener noreferrer">Income Tax Assessment Act 1997</a>（Division 43）。</p>
+<p class="muted">更新日期：2026年11月12日。为避免泄露财务资料，本工具仅在当前浏览器内执行运算，不主动上传输入数据；不储存账号、地址或税号。浏览器本地打印由用户自行决定。</p>
+<div class="notice">本计算器仅用于财税知识教育，不提供报税、估值或投资建议。不同建筑年代、合资格成本、资产种类、出租期间、贷款与个人税务身份可能得出完全不同的实际结果。正式申报请咨询注册税务代理。</div>
+</section>
+<div class="footer-links"><a href="book-property-depreciation.html">← 阅读折旧手册</a><a href="bookshelf.html">查看图书馆其他馆藏 →</a></div>
+</article>
+</main>
+<footer>APOA 社区图书馆 · Australian Property Owners Alliance<br>Read · Listen · Share · Grow</footer>
+<script>
+(function(){
+  "use strict";
+  var form=document.getElementById('calc');
+  var cost=document.getElementById('cost'),age=document.getElementById('age'),usage=document.getElementById('use'),tax=document.getElementById('tax');
+  var error=document.getElementById('error'),nf=new Intl.NumberFormat('en-AU',{style:'currency',currency:'AUD',maximumFractionDigits:0});
+  function validNumber(el,min,max){var raw=el.value.trim(),v=Number(raw);return raw!==''&&Number.isFinite(v)&&v>=min&&v<=max?v:null}
+  function result(){
+    var c=validNumber(cost,0,1000000000),a=validNumber(age,0,40),p=validNumber(usage,0,100),t=validNumber(tax,0,100);
+    if(a!==null&&!Number.isInteger(a))a=null;
+    if(c===null||a===null||p===null||t===null){
+      error.textContent='请填写有效数值：建筑成本不能为负，年数需为0–40之间的整数，用途比例为0–100%。';
+      [cost,age,usage].forEach(function(el){el.setAttribute('aria-invalid',validNumber(el,0,el===age?40:el===usage?100:1000000000)===null?'true':'false')});
+      ['annual','gross','apportion','remaining','saving'].forEach(function(id){document.getElementById(id).textContent='—'});
+      document.getElementById('explanation').textContent='请修正输入后查看试算。';return;
+    }
+    error.textContent='';
+    [cost,age,usage].forEach(function(el){el.setAttribute('aria-invalid','false')});
+    var gross=a>=40?0:c*0.025;
+    var annual=gross*p/100;
+    var saving=annual*t/100;
+    document.getElementById('annual').textContent=nf.format(annual);
+    document.getElementById('gross').textContent=nf.format(gross);
+    document.getElementById('apportion').textContent=p+'%';
+    document.getElementById('remaining').textContent=(40-a)+' 年';
+    document.getElementById('saving').textContent=nf.format(saving);
+    document.getElementById('explanation').textContent='计算：'+nf.format(c)+' × 2.5% × '+p+'% = '+nf.format(annual)+' 年度扣除；再乘 '+t+'% = '+nf.format(saving)+' 理论所得税影响。实际申报需另行核对。';
+  }
+  form.addEventListener('input',result);form.addEventListener('change',result);
+  form.addEventListener('reset',function(){setTimeout(result,0)});
+  document.querySelectorAll('.preset').forEach(function(btn){btn.addEventListener('click',function(){
+    cost.value=btn.dataset.cost;age.value=btn.dataset.age;usage.value=btn.dataset.use;tax.value=btn.dataset.tax;result();cost.focus();
+  })});
+  document.getElementById('print').addEventListener('click',function(){if(!error.textContent)window.print()});
+  result();
+})();
+</script>
+</body>
+</html>
