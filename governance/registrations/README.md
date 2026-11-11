@@ -35,11 +35,17 @@ GST 和 DGR 状态可能发生变化。每次开具重要发票、提交补贴�
 
 ### ASIC 注册办公室（Registered office）
 
-**Moore Australia, 10 Moonee Street, Coffs Harbour NSW 2450**
+**41 Little Street, Coffs Harbour NSW 2450**
 
 只有表格明确要求 “Registered office” 或 ASIC 法定注册地址时，才使用这个地址。
 
-地址来自 APOA 提供的 ASIC Company Extract。正式法律申报、银行验证或政府申请前，应确认 ASIC 当前记录未发生变化。
+**更新依据（2026-11-11）：** APOA 提供的 ASIC Forms Manager《View company details》打印件，截图时间为 2026-11-11 09:02，显示以上 Registered office 和 Camberwell 的 Principal place of business。此前档案记载的 10 Moonee Street 注册办公室地址已被这份较新的 ASIC 资料覆盖。相关原件包含董事出生日期与住宅地址，不上传公开 GitHub。
+
+ASIC 截图另显示 `Non profit company: Yes`。这属于该 ASIC 公司记录中的字段，**不等于** ACNC 慈善注册、ATO 所得税豁免或某一 Council Grant 非营利资格已经获确认。APOA Constitution 第 8 条的剩余资产分配问题仍需单独进行法律审核。
+
+**地址用途提醒：** Registered office 是法律文书送达地址，Principal place of business 才是公司主要日常营业地址；二者可位于不同州。无论填哪种表格，都应按其实际要求使用真实、可证明并有授权的地址。若以后变更地址，按 ASIC 规则办理 Form 484。
+
+正式法律申报、银行验证或政府申请前，应确认 ASIC 的现行记录以及资助方地址要求。
 
 ## Source document
 
@@ -55,7 +61,7 @@ GST 和 DGR 状态可能发生变化。每次开具重要发票、提交补贴�
 - Company type: Public company limited by guarantee
 - Issuing authority: Australian Securities and Investments Commission (ASIC)
 - Principal place of business: Suite 304, 695 Burke Road, Camberwell VIC 3124
-- Registered office: Moore Australia, 10 Moonee Street, Coffs Harbour NSW 2450
+- Registered office: 41 Little Street, Coffs Harbour NSW 2450 (ASIC details provided 11 November 2026)
 - GST: Not currently registered for GST (verified 6 August 2026)
 - DGR: Not entitled to receive tax deductible gifts (verified 6 August 2026)
 
