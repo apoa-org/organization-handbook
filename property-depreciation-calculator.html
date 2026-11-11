@@ -37,7 +37,7 @@ main{max-width:940px;margin:auto;padding:25px 22px 72px}.crumb{font-size:13px;te
 <div class="field"><label for="cost">原始合资格建筑成本（AUD）</label><input id="cost" name="cost" inputmode="decimal" type="number" min="0" step="1000" value="200000" required><small>只包括符合Div 43条件的建筑成本；不包括土地成本。</small></div>
 <div class="field"><label for="age">距建筑完成约多少个完整年度？</label><input id="age" name="age" inputmode="numeric" type="number" min="0" max="40" step="1" value="10" required><small>演示假设从完成后开始计40年；真实起算日需按税法和建筑记录核对。</small></div>
 <div class="field"><label for="use">本年度合资格收入用途比例（%）</label><input id="use" name="use" inputmode="decimal" type="number" min="0" max="100" step="1" value="100" required><small>100%表示完整年度均符合收入用途；短租/自住混合用途不能只凭预订率填。</small></div>
-<div class="field"><label for="tax">演示边际所得税率（%）</label><select id="tax" name="tax"><option value="16">16%</option><option value="30" selected>30%</option><option value="37">37%</option><option value="45">45%</option><option value="0">0%（无即时所得税效果的示意）</option></select><small>用于“理论税额影响”演示，不包括Medicare levy、税务抵免、实际可抵减收入及未来CGT。</small></div>
+<div class="field"><label for="tax">演示边际所得税率（%）</label><select id="tax" name="tax"><option value="15">15%（2026–27居民税率第一档）</option><option value="30" selected>30%（示例）</option><option value="37">37%（示例）</option><option value="45">45%（示例）</option><option value="14">14%（2027–28居民税率第一档）</option><option value="16">16%（2025–26居民税率第一档）</option><option value="0">0%（无即时所得税效果的示意）</option></select><small>仅用一个示例边际税率演示，不会自动根据收入计算税额；税阶跨越、居民身份、Medicare levy、抵免、实际可抵减收入及未来CGT均未计入。</small></div>
 <div class="error" id="error" role="alert" aria-live="polite"></div>
 </div>
 <div class="buttons"><button type="reset">恢复示例</button><button type="button" class="primary" id="print">打印/保存试算摘要</button></div>
