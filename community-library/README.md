@@ -14,6 +14,7 @@ APOA 社区图书馆是一个逐步积累、面向公众开放的学习资料项
 
 - [APOA 社区图书馆首页](https://apoa-org.github.io/organization-handbook/) — 中文优先的公开阅读空间，无需 GitHub 账户。
 - [完整书架](https://apoa-org.github.io/organization-handbook/bookshelf.html) — 收录志愿者故事、社区知识、非营利治理、维州志愿服务研究报告中文解读，以及 AI 应用知识等馆藏。
+- [《澳洲房主生存手册｜投资房折旧：从买房到卖房》](https://apoa-org.github.io/organization-handbook/book-property-depreciation.html) — 2026-11-12 上架导语、六部分目录、三类房主模拟案例；[免费 Div 43 试算器 V0.1](https://apoa-org.github.io/organization-handbook/property-depreciation-calculator.html) 仅用于学习，不代替税务申报。
 - [2025 年维州志愿服务状况报告中文阅读目录](https://apoa-org.github.io/organization-handbook/victoria-volunteering-2025-book.html) — 导读已扩写，后续章节持续完善。
 - [AI 与 GitHub 共建数字图书馆实用指南](https://apoa-org.github.io/organization-handbook/ai-github-library-guide.html)。
 - 网站采用 GitHub Pages 发布：源文件位于 `main:community-library/reader/`，公开 HTML 位于 `gh-pages` 根目录。文章支持字号调整与浏览器中文朗读，具体兼容性依设备而异。
