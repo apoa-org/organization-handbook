@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 790" role="img" aria-labelledby="title desc">
+<title id="title">假政府退税 · myGov · 诈骗短信示意图</title>
+<desc id="desc">虚构短信，配有红色标注，说明金额精确，吸引注意；催促今天处理，制造紧迫感；引导点击链接，索取登录资料；自己打开，myGov App 核实。所有网址均为不可使用的示例域名。</desc>
+<defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#f6f8f1"/><stop offset="1" stop-color="#e9f1e7"/></linearGradient></defs>
+<style>text{font-family:"Noto Sans CJK SC","PingFang SC","Microsoft YaHei",Arial,sans-serif}</style>
+<rect x="2" y="2" width="796" height="786" rx="32" fill="#fffdfa" stroke="#dce6d9" stroke-width="3"/>
+<path d="M2,84 Q140,-8 320,2 L2,2 Z" fill="#d7ead5"/>
+<circle cx="73" cy="67" r="35" fill="#345d4a"/><text x="73" y="78" text-anchor="middle" fill="white" font-size="35" font-weight="800">01</text>
+<text x="130" y="78" fill="#183b2b" font-size="47" font-weight="800">假政府退税 · myGov</text>
+<path d="M130 101 Q248 86 342 103" stroke="#94ba8c" stroke-width="8" fill="none" stroke-linecap="round"/>
+<text x="70" y="141" fill="#607269" font-size="22">示意图 · 非真实截图 · 仅用于反欺诈教育</text>
+<rect x="26" y="167" width="748" height="480" rx="29" fill="url(#bg)"/>
+<rect x="52" y="188" width="459" height="435" rx="42" fill="#3f4647"/>
+<rect x="61" y="199" width="441" height="413" rx="35" fill="#fff"/>
+<rect x="218" y="201" width="124" height="20" rx="10" fill="#303536"/>
+<text x="91" y="235" fill="#202727" font-size="20" font-weight="700">10:24</text>
+<text x="453" y="235" text-anchor="end" fill="#535f5b" font-size="18">● ▮ ▯</text>
+<circle cx="280" cy="273" r="23" fill="#d2d9d8"/><circle cx="280" cy="266" r="9" fill="white"/><path d="M264 283 Q280 270 296 283" stroke="white" stroke-width="8" fill="none" stroke-linecap="round"/>
+<text x="280" y="319" text-anchor="middle" font-size="29" font-weight="700" fill="#27332e">myGov</text>
+<line x1="61" y1="333" x2="502" y2="333" stroke="#e3e9e7" stroke-width="2"/>
+<rect x="83" y="350" width="401" height="247" rx="25" fill="#eaeded"/>
+<text x="105" y="392" fill="#283430" font-weight="650" font-size="31">您有 A$274.63</text>
+<text x="105" y="435" fill="#283430" font-weight="650" font-size="31">退税待领取。</text>
+<text x="105" y="478" fill="#283430" font-weight="650" font-size="31">请于今日内完成验证：</text>
+<text x="105" y="543" fill="#1767b8" font-weight="700" font-size="31">mygov-refund-</text>
+<text x="105" y="582" fill="#1767b8" font-weight="700" font-size="31">verify.example</text>
+<path d="M104 551 H432 M104 590 H357" stroke="#1767b8" stroke-width="1.6" opacity="0.65"/>
+<rect x="527" y="225" rx="17" width="239" height="86" fill="#fffefb" stroke="#cb3239" stroke-width="2.7"/><text x="544" y="259" fill="#bc2531" font-size="27" font-weight="700">金额精确</text><text x="544" y="291" fill="#bc2531" font-size="26" font-weight="650">吸引注意</text><path d="M527 269 L494 269" fill="none" stroke="#cb3239" stroke-width="3" stroke-linecap="round"/><path d="M496 264 l-10 5 10 5" fill="none" stroke="#cb3239" stroke-width="3" stroke-linejoin="round"/><rect x="527" y="323" rx="17" width="239" height="86" fill="#fffefb" stroke="#cb3239" stroke-width="2.7"/><text x="544" y="357" fill="#bc2531" font-size="27" font-weight="700">催促今天处理</text><text x="544" y="389" fill="#bc2531" font-size="26" font-weight="650">制造紧迫感</text><path d="M527 367 L494 367" fill="none" stroke="#cb3239" stroke-width="3" stroke-linecap="round"/><path d="M496 362 l-10 5 10 5" fill="none" stroke="#cb3239" stroke-width="3" stroke-linejoin="round"/><rect x="527" y="421" rx="17" width="239" height="86" fill="#fffefb" stroke="#cb3239" stroke-width="2.7"/><text x="544" y="455" fill="#bc2531" font-size="27" font-weight="700">引导点击链接</text><text x="544" y="487" fill="#bc2531" font-size="26" font-weight="650">索取登录资料</text><path d="M527 465 L494 465" fill="none" stroke="#cb3239" stroke-width="3" stroke-linecap="round"/><path d="M496 460 l-10 5 10 5" fill="none" stroke="#cb3239" stroke-width="3" stroke-linejoin="round"/><rect x="527" y="519" rx="17" width="239" height="86" fill="#fffefb" stroke="#cb3239" stroke-width="2.7"/><text x="544" y="553" fill="#bc2531" font-size="27" font-weight="700">自己打开</text><text x="544" y="585" fill="#bc2531" font-size="26" font-weight="650">myGov App 核实</text><path d="M527 563 L494 563" fill="none" stroke="#cb3239" stroke-width="3" stroke-linecap="round"/><path d="M496 558 l-10 5 10 5" fill="none" stroke="#cb3239" stroke-width="3" stroke-linejoin="round"/>
+<rect x="27" y="661" width="745" height="90" rx="22" fill="#e7f0e6"/>
+<rect x="40" y="675" width="124" height="61" rx="18" fill="#315d46"/>
+<text x="102" y="714" text-anchor="middle" font-size="27" font-weight="750" fill="white">识别要点</text>
+<text x="183" y="694" fill="#1f3e30" font-size="24" font-weight="700">提醒：真正的 myGov 不会通过短信链</text>
+<text x="183" y="727" fill="#1f3e30" font-size="23" font-weight="650">接要求你登录。</text>
+<text x="400" y="778" text-anchor="middle" fill="#63746b" font-size="17">APOA 社区图书馆 · 澳洲房主防欺诈手册</text>
+</svg>
