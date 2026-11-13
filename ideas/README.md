@@ -11,6 +11,7 @@
 | 想法 | 当前状态 | 一句话说明 |
 | --- | --- | --- |
 | [APOA 2026 澳洲房主社区观察白皮书｜研究与政策报告构想](apoa-2026-community-insights-policy-report.md) | 💡 策划案 V0.1，待志愿者讨论，尚未立项 | 基于已归档的房主社区讨论进行统计、匿名案例研究与政策核查，探索形成年度研究报告及面向政府的专题意见书。 |
+| [APOA 社区需求记录与回访｜Community Needs & Follow-up](community-needs-follow-up.md) | 💡 待志愿者讨论，尚未立项 | 征得成员同意后，由志愿者对具体求助做轻量回访，匿名汇总问题解决情况与社区服务需求。 |
 | [APOA 邻里群｜Neighbourhood Connect](neighbourhood-connect.md) | 💡 待志愿者讨论，尚未立项 | 按地区通过微信和 WhatsApp 连接居民，邀请地区志愿者协助，让大家有机会学习知识、分享资源、争取发声。 |
 | [APOA 全民房产知识挑战赛｜Property Challenge](property-challenge.md) | 📝 策划与招商合作草案 V0.1，拟先试做线上版；执行与合作待确认 | 房产知识王、猜房价、Handyman 三款游戏，网友出题，线上挑战逐步连接线下区域决赛。 |
 | [APOA 本地社区拓展｜Sausage Sizzle 与 DIY Club](local-community-outreach.md) | 💡 待志愿者讨论，尚未立项；门店活动与合作待确认 | 探索 Bunnings 社区义卖、房屋维护小课堂与 DIY Club，连接本地居民、双语邻里群和 Handyman 知识挑战。 |
