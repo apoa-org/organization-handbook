@@ -38,6 +38,18 @@
 | [ACCC — Targeting Scams 2025](https://www.accc.gov.au/about-us/publications/serial-publications/targeting-scams-reports-on-scams-activity/targeting-scams-report-of-the-national-anti-scam-centre-on-scams-data-and-activity-2025) | 多来源数据整合、去重、统计限制和方法附录 |
 | [Victorian Ombudsman — Annual Reports](https://www.ombudsman.vic.gov.au/about-us/annual-reports-and-policies/annual-reports/) | 投诉/问题、处理过程和制度性改善建议的区分 |
 
+## 宏观背景资料｜维州房地产税收与机构投资（2026-11-15 新增）
+
+以下资料可为第五章「房产持有成本与经济压力」、第八章「税务、保险与财务决策」及第十章「住房政策与房主实际体验」提供可核对的外部背景，**不能替代 APOA 自身社区统计，也不代表 APOA 已形成政策立场**。
+
+| 指标 | 来源与统计口径 | 使用时的限制 |
+| --- | --- | --- |
+| 47%；2028–29 财年预测 48% | [Property Council of Australia《Best to invest: The reform agenda Victoria needs now》2026 年 3 月报告，第 7 页](https://www.propertycouncil.com.au/wp-content/uploads/2026/03/Victorian-election-platform.pdf)：协会称房产相关税收占维州政府年度税收收入 47%，预算预测将升至 48% | 属行业协会分析，须核对其涵盖的税种、财政预测及政府预算底表；不是全澳税收占比 |
+| 2022–2025 年下降 53% | [Mandala《Attracting international capital》2025 年 10 月报告，第 15 页](https://www.propertycouncil.com.au/wp-content/uploads/2025/10/Attracting-International-Capital-%E2%80%93-How-Foreign-Investor-Taxes-Impact-Global-Investors.pdf)：维州全球机构性房地产投资变化，使用 2025 澳元（通胀调整）及三年滚动平均数据 | 不是海外个人买房人数或交易数量，也不能将全部下降归因于单一税种；研究受 Property Council 委托 |
+| 缺席业主附加土地税 AOS 从 2% 调至 4% | [Victoria State Revenue Office：Understanding the absentee owner surcharge](https://www.sro.vic.gov.au/owning-property/land-tax/absentee-owner-surcharge/understanding-absentee-owner-surcharge)：2020–2023 年 2%，自 2024 土地税年度为 4% | 与海外买家购房附加印花税（Foreign Purchaser Additional Duty）不同；税务适用须考虑身份与豁免条件 |
+
+**研究意义：** 可用这些数据提出「财政对房地产税收的依赖，与住房供应和长期投资环境如何平衡」等问题，再结合社区的土地税、现金流、保险及维修费用经验进行交叉分析。正式白皮书应进一步引入维州预算、ABS、SRO 等独立官方数据，与行业协会的政策倡议明确区分；同时考察利率、建造成本、规划审批及经济周期等其他解释因素。2026 年 11 月 12 日的媒体报道日期不应误写为上述两份报告的出版日期。
+
 ## 目前掌握的数据
 
 ### 2026 年 10 月：已进行首次原始归档核验
