@@ -1,8 +1,11 @@
 # APOA Sydney Community Meetup｜悉尼社区线下见面会
 
+> **状态核验提示（2026-11-20）：** 下方为 2026-10-16 的**活动筹备与报名历史记录**。由于 2026-10-25 已过，现有 GitHub 文件尚不足以确认活动是否举办、最终参加情况或后续成果；此页不再表示当前仍可报名。待活动协调人确认后再补正式复盘。
+
+
 | 项目 | 内容 |
 |---|---|
-| 状态 | 报名开放 / Registration Open |
+| 2026-10-16 当时状态 | 报名开放 / Registration Open（历史记录，非当前状态） |
 | 日期 | 2026 年 10 月 25 日，星期日 |
 | 时间 | 11:00 am（Australia/Melbourne） |
 | 地点 | Royal Botanic Garden Sydney |
@@ -30,7 +33,7 @@
 - 报名时须同意活动条款与安全提示，涵盖食品安全、过敏、现场安全及摄影等事项。
 - 本档案不记录报名者姓名、联系方式或实时人数。
 
-## 官方入口
+## 历史官方入口
 
 - [报名及最新信息｜apoa.org.au](https://apoa.org.au/events/apoa-sydney-community-meetup/)
 
