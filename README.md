@@ -4,6 +4,12 @@
 
 ## 最新更新
 
+### 2026-11-20｜活动及项目进度整理
+
+- [新增：2026 年 11 月公开活动与项目进度](community/2026-11-project-and-activity-update.md)，区分已完成活动、结果待核验活动及尚未立项的 Ideas；这是一份有日期的快照，不是实时看板。
+- [2026 活动索引](events/2026/) 增加状态提示：10 月 25 日悉尼见面会的报名信息已属历史记录，实际活动结果仍待组织者确认。
+
+
 ### 2026-10-31｜APOA Ideas 想法收集箱
 
 - [新增：💡 APOA Ideas 想法收集箱](ideas/)，用于记录构想、分享到志愿者群讨论，大家认可后再另行立项；收录不代表项目已获批准或承诺执行。
@@ -56,7 +62,7 @@
 | Invoice 与 GST | [开票格式、编号和资料归档规范](finance/invoicing/) |
 | ASIC／ABN公司登记 | [注册证书、地址及当前税务状态](governance/registrations/) |
 | 2026活动档案 | [元宵活动、613座谈会、中秋活动报告及悉尼见面会](events/2026/) |
-| 2026组织发展索引 | [会员互助、知识教育与政策参与](community/2026-development-milestones.md) |
+| 2026组织发展索引 | [11 月活动与项目公开进度](community/2026-11-project-and-activity-update.md) · [8–10 月发展里程碑](community/2026-development-milestones.md) |
 | APOA介绍 | [组织介绍、使命和架构](about/) |
 | 💡 想法收集箱 | [脑力风暴与志愿者讨论（非已立项项目）](ideas/) |
 | 社区运营 | [微信群及社区项目公开说明](community/) |
