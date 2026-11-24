@@ -1,49 +1,107 @@
-# 维州出租房浴室发霉，先查哪三件事？
-状态：中英待审稿 V0.1｜2026-11-25｜未发布官网
-适用：维州一般住宅租赁；不直接适用于其他州、Rooming House或商业租赁。
+状态：中英待审稿 V0.2｜2026-11-25｜未发布
 
-## 中文稿
+# 淋浴房发霉，房东负责，还是租客清洁？
 
-浴室出现霉斑后，房主最容易先问：“谁负责？”但第一次收到报修时，更有用的是先把情况记录清楚，查明可能成因，并判断是否需要紧急维修。
+一位群友贴出出租房卫生间的照片，问：长霉了，是不是也要房东处理？
 
-### 一、情况有没有记录下来？
-保存带日期的书面报修、照片和沟通，记录首次发现的位置、范围及是否反复出现。入住状况报告可帮助比较变化，但不能单凭“入住时没有霉”就证明租客造成了问题。若有紧急安全风险，应立即联系处理，并补充书面确认，不必等资料齐全。
+有人认为房东应当处理，也有人提出：如果入住时干干净净，后来才发黑，是否说明租客没有做好清洁？讨论最后，还有人给了一个直接的办法：“喷漂白剂。”
 
-### 二、问题可能从哪里来？
-建议检查漏水、排风设备是否正常，以及是否有冷凝迹象，必要时请适当专业人员评估。这是排查思路，不是凭照片诊断。CAV说明，责任可能与房屋缺陷或使用行为有关；“没开排风扇”和“排风扇坏了”是不同事实，需要证据。[1]
+这几个回答，分别指向责任、证据和清洁方法。真正处理起来，三件事需要一起看。
 
-### 三、要多快处理？
-与建筑结构有关、使房屋不安全的霉菌或潮湿问题属于紧急维修；紧急维修须立即处理。非紧急维修须在收到书面请求后14天内完成。[1][2] 不能把所有霉斑一律视为紧急，也不能未评估就一律等14天。
+## 入住时没有霉，能不能说明是租客的责任？
 
-建议将检查发现、维修安排及后续观察书面保存。先履行应做的安全与维修义务，再依据证据处理费用分歧。
+入住状况报告值得保存。它能帮助比较入住前后发生了什么变化，却不能单独证明变化的原因。
+
+租期中，正常工作的排风扇可能发生故障；密封处可能出现问题；也可能是使用过程中长期没有通风或清洁。起初干净，并不能排除后来发生的维修问题。
+
+Consumer Affairs Victoria（CAV）说明，霉菌责任可能取决于谁促成了问题。例如，租客没有使用浴室排风扇，可能需要负责；房屋缺陷造成雨水进入并引发霉菌，则可能由出租方负责。[1]
+
+因此，群里的意见可以作为排查方向，不能直接当成这个个案的责任结论。本文也没有实际查看该照片，不对霉斑性质或成因作判断。
+
+## 收到第一次报修，先把三个问题问清楚
+
+以下是一份沟通清单，供房主、中介和租客参考。
+
+**第一，哪里发霉，持续多久？** 请提供整体位置及局部照片，说明首次发现时间、是否清洁过、多久再次出现。保存带日期的书面报修，并对照入住报告及维修记录。
+
+**第二，水和湿气从哪里来？** 排风扇能否正常运作？是否有漏水、持续潮湿或密封处异常？清洁后是否很快复发？这些是需要检查的线索；成因不清时，应安排合适的专业人员评估。
+
+**第三，是否需要紧急维修？** CAV将与建筑结构有关、使房屋不安全的霉菌或潮湿列为紧急维修。紧急维修须立即处理；非紧急维修须在收到书面请求后14天内完成。[1][2]
+
+这个时限用于维修，不能把任何清洁请求都机械套入14天，也不能等责任争议结束才处理紧急危险。若房屋不符合最低标准，也可能构成紧急维修，需一并核查。[2]
+
+## 淋浴房只有少量表面霉斑，自己可以怎样清洁？
+
+对于能够安全处理的小范围硬质表面霉斑，可以参考政府的家庭除霉建议。清洁前先确认表面材质和产品标签。
+
+- **先通风、做好防护。** 戴手套、护目镜及合适的P2／N95防护口罩；儿童、孕妇、免疫力较弱或患有肺部疾病的人应避免参与或在场。
+- **选择适用的清洁产品。** 普通家用清洁剂在许多情况下已足够；按标签确认适用材质、用量和停留时间，不必一开始就叠加多种强力产品。
+- **用湿润的超细纤维布擦拭。** 经常在另一容器的清水中清洗脏布，避免把霉带到其他地方。不要干刷，以免扬起孢子。
+- **清洁后充分干燥。** 如果发霉范围大、反复出现，或无法安全处理，找除霉专业人员评估。[3][4]
+
+群友说的“喷漂白剂”，需要补上使用条件。澳大利亚CDC确实把按要求稀释的漂白剂列为较顽固霉菌的一种处理选项，但仍要求遵守标签及安全说明。**漂白剂不能与白醋、含氨产品或其他清洁剂混用，可能产生有毒气体。** 不确定表面是否适合时，先向产品或材料供应商确认。[3][4]
+
+擦完颜色变浅，只说明表面外观改变了，不能据此判断漏水、通风或密封问题已经解决。
+
+## 洗完澡后，多做一点，减少反复
+
+官方防霉建议的核心是减少水分、改善通风，并修复漏水。[4] 放在日常淋浴里，可以这样落实：
+
+洗澡时使用排风扇，洗后继续通风，帮助水汽散去；天气和室外空气条件允许时开窗。用刮水器或干布带走玻璃、底盘和边角积水，是保持干燥的一种做法。定期清洁容易积污、积水的位置，发现排风故障或漏水及时报告。
+
+这些日常动作有助于防霉，但不能替代必要维修。清洁过仍很快复发，与其不断换更强的药剂，不如重新检查潮湿来源。
+
+一处发黑的淋浴边角，可能需要清洁，也可能提示维修问题。把入住记录、使用情况和现场检查放在一起，才能更有依据地决定下一步。
 
 延伸阅读：[维州出租房最低标准](https://apoa.org.au/policy/current-issues/victoria-minimum-rental-standards/)。
 
 ## English draft
 
-# Bathroom mould in a Victorian rental: three things to check first
+# Mould in a rental shower: cleaning issue or repair?
 
-When mould is reported, establish the facts and the repair priority before reaching a conclusion about responsibility.
+A community member shared a bathroom photograph and asked whether the landlord should deal with mould. Some members said yes; others asked whether a clean entry condition report pointed to inadequate cleaning during the tenancy. Another suggested bleach.
 
-**1. Record the report.** Keep dated messages, photographs and a record of where and when mould appeared. An entry condition report helps establish history; it does not, by itself, establish the cause. Act on urgent safety concerns immediately and confirm communications in writing.
+These are useful questions about responsibility, evidence and cleaning, but the comments do not establish the cause. The photograph itself was not available for assessment.
 
-**2. Investigate the cause.** Check for leaks, faulty extraction and condensation, with appropriate professional assessment where needed. This is a suggested investigation process, not a diagnosis from a photograph. CAV explains that property defects and occupants’ behaviour can affect responsibility.[1]
+## Start with the cause
 
-**3. Assess urgency.** Structural mould or damp that makes a home unsafe is an urgent repair. Urgent repairs must be addressed immediately; non-urgent repairs must be completed within 14 days of a written request.[1][2] Neither treating every mould spot as urgent nor automatically waiting 14 days is appropriate.
+An entry condition report records the property's earlier condition. It does not establish why mould developed later. A working exhaust fan may subsequently fail, a seal may develop problems, or occupants may not ventilate and clean adequately.
 
-Keep a written record of findings and repairs. Address required safety and repair work while resolving any disagreement about costs through the appropriate process.
+Consumer Affairs Victoria says responsibility may depend on who contributed to the problem. Failure to use a bathroom fan may point to renter responsibility, while property defects allowing water inside may point to rental-provider responsibility.[1]
 
-## 官方来源／Official sources
-1. Consumer Affairs Victoria, Pests, infestations and mould, Responsibility / When mould is an urgent repair，页面更新2025-04-24。
-https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/pests-infestations-and-mould
-2. Consumer Affairs Victoria, Repairs in rental properties, Urgent and non-urgent repairs，页面更新2026-02-27。
-https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/repairs/repairs-in-rental-properties
+## Three questions after a report
 
-核查日期：2026-11-25。一般信息，不构成个别法律或霉菌检测意见。General information only; not individual legal or mould-assessment advice.
+As an editorial checklist, ask where mould is growing, when it first appeared, what cleaning has been attempted and whether it returns. Keep dated reports and photographs, and compare entry and maintenance records.
 
-## 编辑说明（不进入发布正文）
-- 原线索：https://apoa.org.au/community-update/bathroom-mould-in-a-rental-members-differ-on-responsibility/
-- 已有官网最低标准文章偏出租前准备；本稿补充租期中第一次报修流程，拟与旧文互链。
-- 原卡正文本轮仍无法直接读取，因此本稿不引用群友言论、不描述任何个案，也不作责任裁定。发布前若要加入原卡背景，须补核卡片。
-- 排查步骤和保存照片为编辑建议，与CAV直接确认的义务区分。
-- 本稿等待Kitty审阅，不创建或发布WordPress文章，不推送其他渠道。
+Investigate moisture sources, ventilation performance and possible leaks or seal problems. Seek an appropriate professional assessment where the cause is unclear.
+
+Assess urgency promptly. Structural mould or damp making the home unsafe is an urgent repair. Failure to meet minimum standards can also constitute an urgent repair. Urgent repairs must be addressed immediately; non-urgent repairs must be completed within 14 days of a written request.[1][2] These are repair rules, not an automatic deadline for every cleaning request.
+
+## Cleaning small, manageable surface patches
+
+Government guidance recommends ventilation and suitable protection, including gloves, eye protection and a P2/N95 respirator. Children, pregnant people and people with weakened immunity or lung disease should avoid the clean-up.
+
+For suitable hard surfaces, a household detergent is often sufficient. Follow the product label for surface compatibility, application and contact time. Use a damp microfibre cloth, rinse it regularly in separate clean water, avoid dry brushing and dry the surface afterwards.[3][4]
+
+The Australian CDC includes diluted bleach as an option for harder-to-remove mould, subject to label instructions. Never mix bleach with vinegar, ammonia or other cleaners: hazardous fumes can result. Seek professional help for extensive, recurring or unsafe-to-remove mould.[3][4]
+
+## Reduce recurrence
+
+Use bathroom extraction, ventilate after showering and open windows when weather and outdoor air quality permit. As a practical way to keep surfaces dry, remove standing water with a squeegee or dry cloth. Clean areas that collect moisture and grime, and report faulty extraction or leaks.
+
+These habits support prevention; they do not replace repairs. If mould returns quickly, investigate the moisture source rather than repeatedly applying stronger products.
+
+## 原始来源／Official sources
+[1] Consumer Affairs Victoria — [Pests, infestations and mould](https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/pests-infestations-and-mould)，Responsibility / When mould is an urgent repair。
+[2] Consumer Affairs Victoria — [Repairs in rental properties](https://www.consumer.vic.gov.au/housing/renting/repairs-alterations-safety-and-pets/repairs/repairs-in-rental-properties)，Urgent and non-urgent repairs。
+[3] Victorian Government, Better Health Channel — [Mould removal at home](https://www.betterhealth.vic.gov.au/health/conditionsandtreatments/mould-removal-at-home)，Safety considerations / Steps for mould removal。
+[4] Australian Centre for Disease Control — [Preventing mould exposure](https://www.cdc.gov.au/advice/preventing-mould-exposure)，Preventing mould / Removing mould；更新2026-04-21。
+
+核查：2026-11-25。本文租赁规定针对维州一般住宅租赁；清洁内容为一般家庭健康指引，不替代个案法律或专业检测意见。
+
+## 编辑说明（不发布）
+- V0.2：Kitty提供的11月23日至25日群聊片段已用于匿名转述；不保留姓名、精确时间、图片文件名，不上传原始群聊。
+- 没有实际查看照片。文章不复述他人对照片的观察，也不诊断成因。
+- 沟通清单、刮水器等为编辑整理的实践建议；监管义务、公共健康建议分别标注来源。
+- 官网旧文偏出租前最低标准，本稿补租期中报修及日常维护，拟互链。
+- 待Kitty审阅；未发布官网或社交渠道。
