@@ -10,6 +10,7 @@
 
 | 想法 | 当前状态 | 一句话说明 |
 | --- | --- | --- |
+| [APOA 房主思享会｜房产投资、市场与政策茶叙](property-owners-roundtable.md) | 💡 活动构想，待讨论，尚未立项 | 先开展定向邀请的小型线下茶叙，形成研究议题，再开展线上调查，逐步培育核心智囊力量。 |
 | [APOA 2026 澳洲房主社区观察白皮书｜研究与政策报告构想](apoa-2026-community-insights-policy-report.md) | 💡 策划案 V0.1，待志愿者讨论，尚未立项 | 基于已归档的房主社区讨论进行统计、匿名案例研究与政策核查，探索形成年度研究报告及面向政府的专题意见书。 |
 | [APOA 社区需求记录与回访｜Community Needs & Follow-up](community-needs-follow-up.md) | 💡 待志愿者讨论，尚未立项 | 征得成员同意后，由志愿者对具体求助做轻量回访，匿名汇总问题解决情况与社区服务需求。 |
 | [APOA 邻里群｜Neighbourhood Connect](neighbourhood-connect.md) | 💡 待志愿者讨论，尚未立项 | 按地区通过微信和 WhatsApp 连接居民，邀请地区志愿者协助，让大家有机会学习知识、分享资源、争取发声。 |
